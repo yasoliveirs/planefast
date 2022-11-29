@@ -1,0 +1,244 @@
+﻿body{
+	font-family: poppins, sans-serif;
+	background-color: #ffffff;
+}
+
+div#interfaces{
+	display: block;
+	background-color: #0C49CC;
+	margin: none;
+	margin: -10px;
+	block-size: 550px;
+
+}
+
+div#interfaces img.logotipo {
+ 	width: 200px;
+ 	margin: 30px 20px 0px 85px;
+ 	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+div#interfaces figcaption.icones-menu{
+	margin: 0px;
+}
+
+div#destino{
+ width: 300px;
+    background-color: #eeeeee;
+    margin: -275px 200px 0px 450px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    padding: 0.5px 30px 0.1px 50px;
+    border-radius: 30px;
+    display: block;
+}
+
+div#destino h3{
+ color: #dddddd;
+ font-size: 12pt;
+}
+
+p#subtitulo{
+	margin-top: 0px;
+	font-family: poppins, sans-serif;
+	color: #ffffff;
+	margin-left: 100px;
+	font-size: 18pt;
+}
+
+div#interfaces h1#celso {
+	color: #ffffff;
+	font-size: 20pt;
+	margin-top: 80px;
+	margin-left: 100px;
+	margin-bottom: 0px;
+}
+
+
+
+
+nav#menu ul{
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: 35px;
+    left: 969px;
+}
+
+nav#menu li{
+    display: inline-block;
+    font-size: 8pt;
+    color: #ffffff;
+    background-color: none;
+    padding: 0px;
+    margin: 23px;
+    transition: background-color 1s;
+}
+
+div#caixas {
+	float: center;
+	width: 300px;
+	height: 400px;
+    background-color: #fefefe;
+    margin: -220px 0px 0px 450px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 30px 0px 30px;
+    display: relative;
+
+}
+
+div#caixas2 {
+	float: center;
+	width: 300px;
+	height: 400px;
+    background-color: #fefefe;
+    margin: -190px 0px 0px 450px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 30px 0px 30px;
+    display: relative;
+
+}
+
+div#caixas3 {
+	float: center;
+	width: 300px;
+	height: 400px;
+    background-color: #fefefe;
+    margin: -190px 0px 0px 450px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 30px 0px 30px;
+    display: relative;
+
+}
+
+
+div#caixas div.locais img{
+	float: center;
+	width: 250px;
+	height: 150px;
+    margin: 30px 0px 0px 15px;
+    box-shadow: 0px 0px 0.2px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 30px 0px 30px;
+    position: relative;
+}
+
+div#caixas div.locais2 img{
+	float: center;
+	width: 250px;
+	height: 150px;
+    margin: 30px 0px 0px 15px;
+    box-shadow: 0px 0px 0.2px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 30px 0px 30px;
+    position: relative;
+}
+
+div#caixa-azul {
+	float: center;
+	width: 420px;
+	height: 400px;
+    background-color: #0c49cc;
+    margin: 150px 0px 0px -160px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 30px 0px 30px;
+    display: relative;
+}
+
+div#caixa-azul2 {
+	float: center;
+	width: 420px;
+	height: 400px;
+    background-color: #0c49cc;
+    margin:-390px 0px 0px 600px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 30px 0px 30px;
+    display: relative;
+}
+
+div#caixa-azul img{
+	float: center;
+	width: 450px;
+	height: 300px;
+    margin: 30px 0px 0px 15px;
+    box-shadow: 0px 0px 0.2px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 35px 0px 35px;
+    position: relative;
+}
+
+div#caixa-azul2 img{
+	float: center;
+	width: 450px;
+	height: 300px;
+    margin: 30px 0px 0px 15px;
+    box-shadow: 0px 0px 0.2px rgba(0, 0, 0, .2);
+    padding: 0.5px 15px 0.5px 15px;
+    border-radius: 35px 0px 35px;
+    position: relative;
+}
+
+
+div#caixa-azul h3.negrito{
+	float: center;
+	font-size: 17pt;
+	color: #ffffff;
+	 margin: 0px 0px 0px 45px;
+    position: relative;
+}
+
+div#caixa-azul h3.regular{
+	float: center;
+	font-size: 14pt;
+	font-family: poppins, sans-serif;
+	color: #ffffff;
+	opacity: 50%;
+	 margin: -10px 0px 0px 45px;
+    position: relative;
+}
+
+
+div#caixa-azul2 h3.negrito2{
+	float: center;
+	font-size: 17pt;
+	color: #ffffff;
+	 margin: 0px 0px 0px 45px;
+    position: relative;
+}
+
+div#caixa-azul2 h3.regular2{
+	float: center;
+	font-size: 14pt;
+	font-family: poppins, sans-serif;
+	color: #ffffff;
+	opacity: 50%;
+	 margin: -10px 0px 0px 45px;
+    position: relative;
+}
+
+div#titulo1 h1{
+	margin: 40px 0px -120px -290px;
+	padding-top: -10px;
+	color: #0c49cc;
+	font-family: poppins, sans-serif;
+	font-size: 35pt;
+}
+
+div#texto h1{
+	margin: 60px 0px 0px -290px;
+	color: #0c49cc;
+	font-family: poppins, sans-serif;
+	font-size: 25pt;
+}
+
+div#texto p{
+	margin: 0px 0px 0px -290px;
+	color: #606060;
+	font-family: poppins, sans-serif;
+	font-size: 15pt;
+}
